@@ -30,9 +30,9 @@
 <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><br/><b>Node.js</b></td>
 <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /><br/><b>Express</b></td>
 <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" /><br/><b>FastAPI</b></td>
-<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /><br/><b>MongoDB</b></td>
 </tr>
 <tr>
+<td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /><br/><b>MongoDB</b></td>
 <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><br/><b>Java</b></td>
 <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /><br/><b>Python</b></td>
 <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /><br/><b>C</b></td>
